@@ -1,0 +1,17 @@
+.title{
+	float:top;
+	background-color:gray;
+	
+}
+.title > h1{
+	
+}
+.infor{
+	float:bottom;
+}
+.1{
+	float:left;
+}
+.infor 1{
+	float:inline;
+}
